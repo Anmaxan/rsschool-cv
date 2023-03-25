@@ -10,8 +10,8 @@ E-mail: maxan541587@gmail.com
 Telegram: @Maxan5
 
 
-## Some words about me:
-During my university study I came to idea, that Mechanical Engineering I study now is not the only sphere I want to grow at, so I chose IT, specifically Front-end Development, as the second (and way more spacious for self-development) one. So now I spend a big part of my time off-university for learning Front-end Development, which will offer me many possibilites in near future.
+## Briefly about me:
+During my university study I came to idea, that Mechanical Engineering I study currently is not the only sphere I want to grow at, so I chose IT, specifically Front-end Development, as the second (and more interesting for me) one. So now I spend a big part of my time off-university for learning Front-end Development, which will offer me many possibilites in near future.
 
 
 ## Skills:
